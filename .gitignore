@@ -1,0 +1,19 @@
+Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environment folders
+Prevents uploading all installed libraries
+venv/
+env/
+.venv/
+.env/
+
+IDE / Editor specific settings
+.vscode/
+.idea/
+
+--- Project Specific Files ---
+Generated data files. The script xlsx_Gen.py creates this,
+so the raw data file should not be tracked in version
